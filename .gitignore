@@ -1,0 +1,29 @@
+# Java
+/target
+*.class
+
+# Maven
+.mvn/
+!mvnw
+!mvnw.cmd
+
+# Node.js
+/client/node_modules
+/client/build
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# Test reports
+/coverage
+/test-output
+
+# Images (optional — if you don’t want to push downloaded images)
+backend/images/
+
+# IDEA / VSCode files
+.idea/
+.vscode/
