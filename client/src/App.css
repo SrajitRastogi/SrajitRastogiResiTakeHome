@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.photo-group {
+  margin-bottom: 40px;
+}
+
+.photo-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.photo-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  margin: 10px;
+  padding: 10px;
+  width: 200px;
+}
+
+.photo-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.photo-card button {
+  margin-top: 8px;
+  padding: 6px 12px;
+  cursor: pointer;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  border-radius: 4px;
+}
+
+.photo-card button:hover {
+  background-color: #0056b3;
+}
