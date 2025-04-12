@@ -19,7 +19,7 @@ The user selects an image from the frontend and downloads it locally.
 ### 1. Clone the Repo
 git clone https://github.com/SrajitRastogi/SrajitRastogiResiTakeHome.git
 
-cd mars-rover-project
+cd SrajitRastogiResiTakeHome
 
 ### 2. GET NASA API KEY
  2.1 Visit: https://api.nasa.gov/
