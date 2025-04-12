@@ -36,7 +36,7 @@ cd SrajitRastogiResiTakeHome
 
  (If you dont have maven install globally, I recommend you to install it using **brew install maven**  or if using windows, please download it from its website
 
- ## RUN 
+ **RUN** 
  
  mvn -N io.takari:maven:wrapper
 
