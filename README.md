@@ -14,6 +14,35 @@ The user selects an image from the frontend and downloads it locally.
 - Testing: JUnit 5, Mockito
 - Build Tool: Maven
 
+## Pre-Requisite
+
+Before you begin, ensure you have the following installed on your system:
+
+### 1. Java 17
+
+- Verify installation:
+  
+  java -version
+
+### 2. Node.js (v16 or higher)
+
+node -v
+
+npm -v
+
+If not installed, download from: https://nodejs.org/
+
+### 3. Maven (If running locally)
+
+mvn -v
+
+If not installed:
+
+ Mac: brew install maven
+
+ Windows: Download from https://maven.apache.org/download.cgi and configure environment variables.
+
+
 ## 🚀 How to Run the Project (Local)
 
 ### 1. Clone the Repo
