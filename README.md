@@ -17,7 +17,7 @@ The user selects an image from the frontend and downloads it locally.
 ## 🚀 How to Run the Project (Local)
 
 ### 1. Clone the Repo
-git clone https://github.com/your-username/mars-rover-project.git
+git clone https://github.com/SrajitRastogi/mars-rover-project.git
 
 cd mars-rover-project
 
