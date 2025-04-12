@@ -34,6 +34,8 @@ cd SrajitRastogiResiTakeHome
  ### 3. Run the backend
  cd backend
 
+ (If you dont have maven install globally, I recommend you to install it using **brew install maven**  or if using windows, please download it from its website
+ 
 ./mvnw clean install
 
 ./mvnw spring-boot:run
